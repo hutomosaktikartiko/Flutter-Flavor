@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "321143199567",
+    "project_id": "flavor-development-a1994",
+    "storage_bucket": "flavor-development-a1994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321143199567:android:5d6f80ebe76a911365173a",
+        "android_client_info": {
+          "package_name": "com.testflavor.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321143199567-ab16rfi7shjk6adi3b0p0op8t205niqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiJroKwoYNcNicoBJEWmta5XvZQevVig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321143199567-ab16rfi7shjk6adi3b0p0op8t205niqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321143199567-a91pmcdo88lg6hqb795psoer2fqrh8kq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testflavor.development"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
